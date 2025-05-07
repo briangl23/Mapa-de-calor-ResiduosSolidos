@@ -1,0 +1,5 @@
+PARA UTILIZAR LOS ARCHIVOS DE QGIS, TAMBIEN EN ARCGIS.
+SOLO ARRASTA A LA EDITOR DE CODIGO QUE ESTES UTILIZANDO, ESTE FUE ELABORADO EN GOOGLE COLABORATY, PERO FUNCIONA EN VISUAL STUDIO CODE Y OTROS.
+
+
+**Observación: Los archivos .shp, .shx y .dbf son los más importantes para crear un mapa de calor, mientras que los los archivos **.cpg** si es que tiene caracteres especiales en los nombre como  la **"ñ"**
