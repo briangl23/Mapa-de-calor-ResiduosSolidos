@@ -1,8 +1,8 @@
-# Residuos-Solidos-Domiciliarios (RESIDUOS APROVECHABLES)
+# Residuos-Solidos-Domiciliarios ( APROVECHABLES)
 
 ## Mapa de calor con leyenda 
 
-## código:
+### Importar librerias
 
 import geopandas as gpd
 
